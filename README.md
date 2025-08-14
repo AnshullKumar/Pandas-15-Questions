@@ -68,8 +68,4 @@ Each question introduces new methods for **data manipulation, filtering, groupin
 - Pandas Docs: [https://pandas.pydata.org/docs](https://pandas.pydata.org/docs)
 
 
-- Original article: [Learn Pandas in 15 Questions from LeetCode](https://kawsar34.medium.com/learn-pandas-in-15-questions-from-leetcode-c8d0d10c2f0a)
-
-
-
 
